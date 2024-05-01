@@ -1,0 +1,3 @@
+# for ignoring the type of db files so in the push things wont be complicated in the creation or editing in a database values
+*.db
+gestion_produit.db
